@@ -1,0 +1,27 @@
+html{font-family: Arial, sans-serif;
+			background-color: #cbebeb;
+			color: #343232;
+			margin: 10;
+            padding: 20px;
+	
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #b0d0d2;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
